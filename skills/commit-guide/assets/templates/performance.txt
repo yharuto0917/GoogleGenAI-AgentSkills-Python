@@ -1,7 +1,0 @@
-perf: [brief description]
-
-[What was optimized]
-
-[Explanation of the optimization technique]
-
-[Performance metrics - before/after if available]

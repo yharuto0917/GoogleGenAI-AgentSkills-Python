@@ -1,9 +1,0 @@
-fix: [brief description of the bug]
-
-[What was wrong]
-
-[What caused the issue]
-
-[How it's fixed]
-
-Fixes #[issue-number]

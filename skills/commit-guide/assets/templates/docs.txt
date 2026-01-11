@@ -1,5 +1,0 @@
-docs: [brief description]
-
-[What documentation was added/updated]
-
-[Why this documentation is important or what problem it solves]
