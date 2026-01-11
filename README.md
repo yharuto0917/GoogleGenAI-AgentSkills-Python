@@ -1,5 +1,3 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=00AC47&height=300&section=header&text=Google%20GenAI%20Agent%20Skills&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Supercharge%20your%20development%20with%20AI%20skills&descAlignY=55&descAlign=50)
-
 # Google GenAI Agent Skills 🚀
 
 Welcome to the **Google GenAI Agent Skills** repository! This collection of skills is designed to empower your AI agents with the capabilities of Google's Generative AI. 🧠✨

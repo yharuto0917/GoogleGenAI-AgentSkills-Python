@@ -1,5 +1,3 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=4285F4&height=300&section=header&text=Google%20GenAI%20Agent%20Skills&fontSize=80&animation=fadeIn&fontAlignY=38&desc=AI%E3%81%AE%E5%8A%9B%E3%82%92%E3%81%82%E3%81%AA%E3%81%9F%E3%81%AE%E9%96%8B%E7%99%BA%E3%81%AB&descAlignY=55&descAlign=50)
-
 # Google GenAI Agent Skillsへようこそ！ 🚀
 
 **Google GenAI Agent Skills** リポジトリをご覧いただきありがとうございます！ ここでは、あなたのAIエージェントがGoogleのGenerative AIの強力な機能を使えるようにするためのスキルセットを提供しています。 🧠✨
