@@ -10,7 +10,9 @@ Use the models page for the latest names and capabilities. Common choices:
 - **gemini-2.0-flash-lite**: Lowest cost for lightweight tasks
 - **gemini-embedding-001**: Text embeddings
 
-Preview models (for experimentation) are also available, e.g. `gemini-3-flash-preview`.
+Preview models (for experimentation):
+- **gemini-3-flash-preview**: Next-gen preview model for fast iteration
+- **gemini-3-pro-preview**: Next-gen preview model for highest quality
 
 ## Core SDK Usage
 

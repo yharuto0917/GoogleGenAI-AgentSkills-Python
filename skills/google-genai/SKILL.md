@@ -170,6 +170,8 @@ Choose the right model for your use case:
 - **gemini-2.0-flash**: Fast and cost-efficient, high-volume tasks
 - **gemini-2.0-flash-lite**: Lowest cost for lightweight workloads
 - **gemini-embedding-001**: Text embeddings for retrieval and similarity
+- **gemini-3-flash-preview**: Next-gen preview model for fast iteration (experimental)
+- **gemini-3-pro-preview**: Next-gen preview model for highest quality (experimental)
 
 See the official model list for the latest stable and preview variants.
 
@@ -284,6 +286,7 @@ All scripts include error handling and can be run directly or used as templates.
 **Performance:**
 - Use `gemini-2.5-flash` for best price-performance
 - Use `gemini-2.5-pro` for quality and complex reasoning
+- Use `gemini-3-flash-preview` or `gemini-3-pro-preview` when you want next-gen previews
 - Set `max_output_tokens` to limit costs
 - Use streaming for long outputs
 
