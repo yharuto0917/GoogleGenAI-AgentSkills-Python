@@ -1,0 +1,9 @@
+refactor: [brief description]
+
+[What was refactored and why]
+
+Changes:
+- [Change 1]
+- [Change 2]
+
+[Benefits of the refactoring]
