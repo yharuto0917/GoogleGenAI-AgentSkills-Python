@@ -12,6 +12,14 @@
 
 お使いのツールに合わせて、以下の手順でセットアップしてくださいね。とっても簡単です！ 👇
 
+### ▲ For using `npx skills`
+
+Agent Skillsをより簡単に使用するためのCLIツール、`npx skills`を使用してこのSkillをインストールするには、以下のコマンドをご利用ください！！
+
+```shell
+npx skills add https://github.com/yharuto0917/GoogleGenAI-AgentSkills-Python --skill google-genai
+```
+
 ### 🤖 Claude Code をお使いの方
 
 **Claude Code** でこのスキルを使うには、リポジトリをクローンして、`skills/google-genai` ディレクトリをプロジェクトの `claude` フォルダ内に配置するだけです。

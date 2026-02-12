@@ -12,6 +12,14 @@ Whether you are using **Claude Code** or **Gemini CLI**, these skills will help 
 
 You can easily use these skills with your favorite AI agent tools. Just follow the steps below! 👇
 
+### ▲ For using `npx skills`
+
+To install this skills throughout `npx skills` which is an open-source CLI tools to use skills more easily, you can use below a command!!
+
+```shell
+npx skills add https://github.com/yharuto0917/GoogleGenAI-AgentSkills-Python -skill google-genai
+```
+
 ### 🤖 For Claude Code Users
 
 To use this skill with **Claude Code**, simply clone this repository and place the `skills/google-genai` directory into your project's `claude` directory.
